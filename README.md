@@ -15,6 +15,7 @@ Polyglot Summarizer: A real-time multilingual text summarization app that detect
 
 ### Clone the Repository
 ```bash
+https://github.com/Israk-ML-1999/Real-Time-Multilingual-Summarizer.git
 
 # ⚙️ Technologies Used
 Hugging Face Transformers: For advanced text summarization.
