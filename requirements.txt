@@ -1,0 +1,5 @@
+streamlit
+transformers
+langdetect
+torch
+sentencepiece
